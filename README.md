@@ -24,7 +24,7 @@ The authors would like to thank iTrust, Center for Research in Cyber Security, S
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/mmacas11/3Da-CVAE/blob/main/LICENSE.md)**
+- **[MIT license](https://github.com/mmacas11/3Da-CVAE/blob/main/LICENSE)**
 
 
 
